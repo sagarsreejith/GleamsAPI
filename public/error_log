@@ -1,0 +1,261 @@
+[29-Jul-2015 12:45:27 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 50
+[30-Jul-2015 09:27:32 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 101
+[30-Jul-2015 09:28:07 UTC] PHP Fatal error:  Class 'App\Http\Controllers\UserNetwork' not found in /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php on line 127
+[30-Jul-2015 10:33:11 UTC] PHP Fatal error:  Access to undeclared static property: App\Users::$referUserRules in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 30
+[30-Jul-2015 12:50:05 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 109
+[31-Jul-2015 05:34:05 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 111
+[31-Jul-2015 05:37:09 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Deals' not found in /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php on line 150
+[31-Jul-2015 05:37:41 UTC] PHP Fatal error:  Access to undeclared static property: App\UserNetwork::$createDealRules in /home3/codebrew/public_html/projects/networth/app/Deals.php on line 32
+[31-Jul-2015 05:37:55 UTC] PHP Fatal error:  Access to undeclared static property: App\UserNetwork::$createDealRules in /home3/codebrew/public_html/projects/networth/app/Deals.php on line 32
+[31-Jul-2015 12:47:36 UTC] PHP Fatal error:  Cannot redeclare App\Meetings::$meetingFeedbackCustomerRules in /home3/codebrew/public_html/projects/networth/app/Meetings.php on line 63
+[03-Aug-2015 07:03:39 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 121
+[04-Aug-2015 05:59:14 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Chat' not found in /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php on line 202
+[04-Aug-2015 06:00:03 UTC] PHP Fatal error:  Class 'App\Validator' not found in /home3/codebrew/public_html/projects/networth/app/Chat.php on line 35
+[04-Aug-2015 06:00:57 UTC] PHP Fatal error:  Class 'App\Input' not found in /home3/codebrew/public_html/projects/networth/app/Chat.php on line 49
+[04-Aug-2015 06:05:12 UTC] PHP Fatal error:  Class 'App\ApiModel' not found in /home3/codebrew/public_html/projects/networth/app/Chat.php on line 84
+[04-Aug-2015 06:32:58 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 143
+[04-Aug-2015 06:33:49 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 143
+[04-Aug-2015 06:34:29 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 143
+[04-Aug-2015 06:34:42 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 143
+[04-Aug-2015 06:43:16 UTC] PHP Fatal error:  Class 'App\ApiModel' not found in /home3/codebrew/public_html/projects/networth/app/Chat.php on line 84
+[04-Aug-2015 07:58:02 UTC] PHP Fatal error:  Class 'App\URL' not found in /home3/codebrew/public_html/projects/networth/app/Chat.php on line 62
+[04-Aug-2015 13:19:26 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 143
+[05-Aug-2015 09:37:21 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: diff_referrals_given' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php:412
+Stack trace:
+#0 /home3/codebrew/public_html/projects/networth/app/UserNetwork.php(412): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home3/codebrew...', 412, Array)
+#1 /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php(169): App\UserNetwork::dashboardByDate(Array)
+#2 [internal function]: App\Http\Controllers\ApiController->dashboardByDate()
+#3 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(246): call_user_func_array(Array, Array)
+#4 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('dashboardByDate', Array)
+#5 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/ in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 412
+[05-Aug-2015 09:37:21 UTC] PHP Fatal error:  Cannot access empty property in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 412
+[05-Aug-2015 09:37:56 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: diff_referrals_given' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php:412
+Stack trace:
+#0 /home3/codebrew/public_html/projects/networth/app/UserNetwork.php(412): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home3/codebrew...', 412, Array)
+#1 /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php(169): App\UserNetwork::dashboardByDate(Array)
+#2 [internal function]: App\Http\Controllers\ApiController->dashboardByDate()
+#3 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(246): call_user_func_array(Array, Array)
+#4 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('dashboardByDate', Array)
+#5 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/ in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 412
+[05-Aug-2015 09:37:56 UTC] PHP Fatal error:  Cannot access empty property in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 412
+[05-Aug-2015 09:38:13 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: diff_referrals_given' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php:412
+Stack trace:
+#0 /home3/codebrew/public_html/projects/networth/app/UserNetwork.php(412): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home3/codebrew...', 412, Array)
+#1 /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php(169): App\UserNetwork::dashboardByDate(Array)
+#2 [internal function]: App\Http\Controllers\ApiController->dashboardByDate()
+#3 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(246): call_user_func_array(Array, Array)
+#4 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('dashboardByDate', Array)
+#5 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/ in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 412
+[05-Aug-2015 09:38:13 UTC] PHP Fatal error:  Cannot access empty property in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 412
+[05-Aug-2015 09:47:29 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: diff_referrals_given' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php:414
+Stack trace:
+#0 /home3/codebrew/public_html/projects/networth/app/UserNetwork.php(414): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home3/codebrew...', 414, Array)
+#1 /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php(169): App\UserNetwork::dashboardByDate(Array)
+#2 [internal function]: App\Http\Controllers\ApiController->dashboardByDate()
+#3 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(246): call_user_func_array(Array, Array)
+#4 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('dashboardByDate', Array)
+#5 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/ in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 414
+[05-Aug-2015 09:47:29 UTC] PHP Fatal error:  Cannot access empty property in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 414
+[05-Aug-2015 09:52:20 UTC] PHP Fatal error:  Call to undefined function App\stringval() in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 414
+[05-Aug-2015 10:42:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 437
+[05-Aug-2015 11:17:35 UTC] PHP Fatal error:  Access to undeclared static property: App\UserNetwork::$dashboardByYearRules in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 479
+[06-Aug-2015 05:48:51 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 151
+[06-Aug-2015 05:49:38 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 151
+[06-Aug-2015 05:50:08 UTC] PHP Fatal error:  Class 'App\ApiModel' not found in /home3/codebrew/public_html/projects/networth/app/Chat.php on line 168
+[06-Aug-2015 06:25:15 UTC] PHP Fatal error:  Access to undeclared static property: App\Users::$viewCurrentMessagesRules in /home3/codebrew/public_html/projects/networth/app/Chat.php on line 207
+[06-Aug-2015 06:25:15 UTC] PHP Fatal error:  Access to undeclared static property: App\Users::$viewCurrentMessagesRules in /home3/codebrew/public_html/projects/networth/app/Chat.php on line 207
+[06-Aug-2015 13:01:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 84
+[17-Aug-2015 12:52:22 UTC] PHP Parse error:  syntax error, unexpected ',', expecting '&' or variable (T_VARIABLE) in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 63
+[19-Aug-2015 09:15:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 586
+[25-Aug-2015 09:43:43 UTC] PHP Fatal error:  Call to undefined function App\getReferralGivenRangeValue() in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 187
+[25-Aug-2015 10:12:28 UTC] PHP Fatal error:  Call to undefined function App\getBusinessValReffScoreRangeValue() in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 253
+[25-Aug-2015 14:09:13 UTC] PHP Fatal error:  Class 'App\Http\Controllers\AdminDeals' not found in /home3/codebrew/public_html/projects/networth/app/Http/Controllers/AdminController.php on line 39
+[25-Aug-2015 14:09:59 UTC] PHP Fatal error:  Class 'App\Http\Controllers\AdminDeals' not found in /home3/codebrew/public_html/projects/networth/app/Http/Controllers/AdminController.php on line 39
+[26-Aug-2015 05:41:42 UTC] PHP Fatal error:  Class 'App\Http\Controllers\AdminUsers' not found in /home3/codebrew/public_html/projects/networth/app/Http/Controllers/AdminController.php on line 47
+[26-Aug-2015 07:51:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home3/codebrew/public_html/projects/networth/storage/framework/views/48ee2eedc918f9b2a803a0b40afd1e7d on line 141
+[26-Aug-2015 07:53:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home3/codebrew/public_html/projects/networth/storage/framework/views/48ee2eedc918f9b2a803a0b40afd1e7d on line 143
+[28-Aug-2015 10:31:04 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 163
+[28-Aug-2015 10:31:21 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 163
+[28-Aug-2015 10:31:46 UTC] PHP Fatal error:  Access to undeclared static property: App\Users::$setApnRules in /home3/codebrew/public_html/projects/networth/app/Users.php on line 820
+[28-Aug-2015 10:44:58 UTC] PHP Fatal error:  Class 'App\Users' not found in /home3/codebrew/public_html/projects/networth/app/Meetings.php on line 438
+[28-Aug-2015 11:58:49 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1026
+[28-Aug-2015 12:01:42 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: apns' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php:1030
+Stack trace:
+#0 /home3/codebrew/public_html/projects/networth/app/UserNetwork.php(1030): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home3/codebrew...', 1030, Array)
+#1 /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php(159): App\UserNetwork::referUser(Array)
+#2 [internal function]: App\Http\Controllers\ApiController->referUser()
+#3 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(246): call_user_func_array(Array, Array)
+#4 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('referUser', Array)
+#5 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.ph in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1030
+[28-Aug-2015 12:01:42 UTC] PHP Fatal error:  Call to a member function newMessage() on a non-object in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1030
+[28-Aug-2015 12:35:38 UTC] PHP Fatal error:  Class 'App\URL' not found in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 9
+[28-Aug-2015 12:37:44 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: apns' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php:1034
+Stack trace:
+#0 /home3/codebrew/public_html/projects/networth/app/UserNetwork.php(1034): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home3/codebrew...', 1034, Array)
+#1 /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php(159): App\UserNetwork::referUser(Array)
+#2 [internal function]: App\Http\Controllers\ApiController->referUser()
+#3 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(246): call_user_func_array(Array, Array)
+#4 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('referUser', Array)
+#5 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.ph in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1034
+[28-Aug-2015 12:37:44 UTC] PHP Fatal error:  Call to a member function newMessage() on a non-object in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1034
+[28-Aug-2015 12:41:13 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: apns' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php:1034
+Stack trace:
+#0 /home3/codebrew/public_html/projects/networth/app/UserNetwork.php(1034): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home3/codebrew...', 1034, Array)
+#1 /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php(159): App\UserNetwork::referUser(Array)
+#2 [internal function]: App\Http\Controllers\ApiController->referUser()
+#3 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(246): call_user_func_array(Array, Array)
+#4 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('referUser', Array)
+#5 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.ph in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1034
+[28-Aug-2015 12:41:13 UTC] PHP Fatal error:  Call to a member function newMessage() on a non-object in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1034
+[31-Aug-2015 06:52:41 UTC] PHP Parse error:  syntax error, unexpected '{' in /home3/codebrew/public_html/projects/networth/storage/framework/views/f7aa64ae975cbc7cf55e893c579963f8 on line 629
+[31-Aug-2015 06:53:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/codebrew/public_html/projects/networth/storage/framework/views/f7aa64ae975cbc7cf55e893c579963f8 on line 629
+[31-Aug-2015 09:28:08 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: apns' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php:1034
+Stack trace:
+#0 /home3/codebrew/public_html/projects/networth/app/UserNetwork.php(1034): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home3/codebrew...', 1034, Array)
+#1 /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php(159): App\UserNetwork::referUser(Array)
+#2 [internal function]: App\Http\Controllers\ApiController->referUser()
+#3 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(246): call_user_func_array(Array, Array)
+#4 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('referUser', Array)
+#5 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.ph in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1034
+[31-Aug-2015 09:28:08 UTC] PHP Fatal error:  Call to a member function newMessage() on a non-object in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1034
+[31-Aug-2015 10:21:14 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: apns' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php:1034
+Stack trace:
+#0 /home3/codebrew/public_html/projects/networth/app/UserNetwork.php(1034): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home3/codebrew...', 1034, Array)
+#1 /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php(159): App\UserNetwork::referUser(Array)
+#2 [internal function]: App\Http\Controllers\ApiController->referUser()
+#3 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(246): call_user_func_array(Array, Array)
+#4 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('referUser', Array)
+#5 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.ph in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1034
+[31-Aug-2015 10:21:14 UTC] PHP Fatal error:  Call to a member function newMessage() on a non-object in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1034
+[31-Aug-2015 10:30:16 UTC] PHP Fatal error:  Class 'App\DbConnect' not found in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 12
+[31-Aug-2015 10:32:00 UTC] PHP Fatal error:  Class 'App\DbConnect' not found in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 12
+[31-Aug-2015 10:58:17 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: apns' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php:1034
+Stack trace:
+#0 /home3/codebrew/public_html/projects/networth/app/UserNetwork.php(1034): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home3/codebrew...', 1034, Array)
+#1 /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php(159): App\UserNetwork::referUser(Array)
+#2 [internal function]: App\Http\Controllers\ApiController->referUser()
+#3 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(246): call_user_func_array(Array, Array)
+#4 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('referUser', Array)
+#5 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.ph in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1034
+[31-Aug-2015 10:58:17 UTC] PHP Fatal error:  Call to a member function newMessage() on a non-object in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1034
+[31-Aug-2015 10:58:41 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: apns' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php:1034
+Stack trace:
+#0 /home3/codebrew/public_html/projects/networth/app/UserNetwork.php(1034): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home3/codebrew...', 1034, Array)
+#1 /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php(159): App\UserNetwork::referUser(Array)
+#2 [internal function]: App\Http\Controllers\ApiController->referUser()
+#3 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(246): call_user_func_array(Array, Array)
+#4 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('referUser', Array)
+#5 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.ph in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1034
+[31-Aug-2015 10:58:41 UTC] PHP Fatal error:  Call to a member function newMessage() on a non-object in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1034
+[31-Aug-2015 11:01:05 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: apns' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php:1034
+Stack trace:
+#0 /home3/codebrew/public_html/projects/networth/app/UserNetwork.php(1034): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home3/codebrew...', 1034, Array)
+#1 /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php(159): App\UserNetwork::referUser(Array)
+#2 [internal function]: App\Http\Controllers\ApiController->referUser()
+#3 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(246): call_user_func_array(Array, Array)
+#4 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('referUser', Array)
+#5 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.ph in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1034
+[31-Aug-2015 11:01:05 UTC] PHP Fatal error:  Call to a member function newMessage() on a non-object in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1034
+[31-Aug-2015 11:04:56 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING) in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1033
+[31-Aug-2015 11:08:34 UTC] PHP Fatal error:  Class 'App\APNS' not found in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1036
+[31-Aug-2015 11:13:08 UTC] PHP Fatal error:  Class 'App\apns' not found in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1036
+[31-Aug-2015 11:14:39 UTC] PHP Parse error:  syntax error, unexpected 'to' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1036
+[31-Aug-2015 11:17:46 UTC] PHP Parse error:  syntax error, unexpected 'to' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1036
+[31-Aug-2015 11:18:47 UTC] PHP Fatal error:  Class 'App\APNS' not found in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1037
+[31-Aug-2015 12:05:38 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: apns' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php:1038
+Stack trace:
+#0 /home3/codebrew/public_html/projects/networth/app/UserNetwork.php(1038): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home3/codebrew...', 1038, Array)
+#1 /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php(159): App\UserNetwork::referUser(Array)
+#2 [internal function]: App\Http\Controllers\ApiController->referUser()
+#3 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(246): call_user_func_array(Array, Array)
+#4 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('referUser', Array)
+#5 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.ph in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1038
+[31-Aug-2015 12:05:38 UTC] PHP Fatal error:  Call to a member function newMessage() on a non-object in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1038
+[31-Aug-2015 12:22:54 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: apns' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php:1038
+Stack trace:
+#0 /home3/codebrew/public_html/projects/networth/app/UserNetwork.php(1038): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home3/codebrew...', 1038, Array)
+#1 /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php(159): App\UserNetwork::referUser(Array)
+#2 [internal function]: App\Http\Controllers\ApiController->referUser()
+#3 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(246): call_user_func_array(Array, Array)
+#4 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('referUser', Array)
+#5 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.ph in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1038
+[31-Aug-2015 12:22:54 UTC] PHP Fatal error:  Call to a member function newMessage() on a non-object in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1038
+[31-Aug-2015 12:24:15 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: apns' in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php:1039
+Stack trace:
+#0 /home3/codebrew/public_html/projects/networth/app/UserNetwork.php(1039): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home3/codebrew...', 1039, Array)
+#1 /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php(159): App\UserNetwork::referUser(Array)
+#2 [internal function]: App\Http\Controllers\ApiController->referUser()
+#3 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(246): call_user_func_array(Array, Array)
+#4 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(162): Illuminate\Routing\Controller->callAction('referUser', Array)
+#5 /home3/codebrew/public_html/projects/networth/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.ph in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1039
+[31-Aug-2015 12:24:15 UTC] PHP Fatal error:  Call to a member function newMessage() on a non-object in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1039
+[31-Aug-2015 12:29:00 UTC] PHP Fatal error:  Class 'App\APNS' not found in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1036
+[31-Aug-2015 12:34:22 UTC] PHP Fatal error:  Class 'DbConnect' not found in /home3/codebrew/public_html/projects/networth/public/easyapns/apns.php on line 43
+[31-Aug-2015 09:00:25 America/Chicago] PHP Parse error:  syntax error, unexpected ''passPhrase'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home3/codebrew/public_html/projects/networth/config/push-notification.php on line 8
+[31-Aug-2015 14:02:54 UTC] PHP Fatal error:  Class 'DbConnect' not found in /home3/codebrew/public_html/projects/networth/public/easyapns/apns.php on line 43
+[31-Aug-2015 14:05:40 UTC] PHP Fatal error:  Class 'App\PushNotification' not found in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 1023
+[01-Sep-2015 10:27:42 UTC] PHP Parse error:  syntax error, unexpected 'dd' (T_STRING) in /home3/codebrew/public_html/projects/networth/app/Http/routes.php on line 214
+[01-Sep-2015 11:13:50 UTC] PHP Fatal error:  Class 'App\PushNotification' not found in /home3/codebrew/public_html/projects/networth/app/Meetings.php on line 167
+[01-Sep-2015 11:14:50 UTC] PHP Fatal error:  Class 'App\PushNotification' not found in /home3/codebrew/public_html/projects/networth/app/Meetings.php on line 167
+[01-Sep-2015 11:17:46 UTC] PHP Fatal error:  Class 'App\PushNotification' not found in /home3/codebrew/public_html/projects/networth/app/Meetings.php on line 167
+[01-Sep-2015 11:21:25 UTC] PHP Fatal error:  Class 'App\PushNotification' not found in /home3/codebrew/public_html/projects/networth/app/Meetings.php on line 167
+[02-Sep-2015 13:08:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/networth/app/UserNetwork.php on line 238
+[04-Sep-2015 05:47:51 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 163
+[04-Sep-2015 05:48:04 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 163
+[04-Sep-2015 05:51:10 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 163
+[04-Sep-2015 06:12:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/networth/app/Meetings.php on line 196
+[09-Sep-2015 06:51:02 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 163
+[09-Sep-2015 06:51:15 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 163
+[09-Sep-2015 06:51:29 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 163
+[09-Sep-2015 07:51:15 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 175
+[09-Sep-2015 07:58:19 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 175
+[09-Sep-2015 09:05:41 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 175
+[09-Sep-2015 09:39:06 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 175
+[09-Sep-2015 09:39:11 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 175
+[09-Sep-2015 09:46:42 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 175
+[09-Sep-2015 09:47:39 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 175
+[09-Sep-2015 09:49:25 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 175
+[09-Sep-2015 09:50:20 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 175
+[09-Sep-2015 09:52:23 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 175
+[09-Sep-2015 10:02:11 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home3/codebrew/public_html/projects/networth/app/Http/Middleware/VerifyCsrf.php on line 175
+[09-Sep-2015 10:04:36 UTC] PHP Fatal error:  Class 'App\DateTime' not found in /home3/codebrew/public_html/projects/networth/app/Chat.php on line 381
+[09-Sep-2015 10:05:44 UTC] PHP Fatal error:  Class 'App\DateTime' not found in /home3/codebrew/public_html/projects/networth/app/Chat.php on line 381
+[09-Sep-2015 10:06:56 UTC] PHP Fatal error:  Class 'App\DateTime' not found in /home3/codebrew/public_html/projects/networth/app/Chat.php on line 381
+[09-Sep-2015 10:07:38 UTC] PHP Fatal error:  Class 'App\DateTime' not found in /home3/codebrew/public_html/projects/networth/app/Chat.php on line 381
+[09-Sep-2015 10:08:36 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home3/codebrew/public_html/projects/networth/app/Chat.php on line 698
+[14-Sep-2015 11:30:39 UTC] PHP Parse error:  syntax error, unexpected '$meeting_details' (T_VARIABLE) in /home3/codebrew/public_html/projects/networth/app/Meetings.php on line 191
+[16-Sep-2015 01:47:46 America/Chicago] PHP Fatal error:  Class 'DB' not found in /home3/codebrew/public_html/projects/networth/public/cron-feedback.php on line 5
+[16-Sep-2015 01:48:31 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\Facades\DB' not found in /home3/codebrew/public_html/projects/networth/public/cron-feedback.php on line 13
+[16-Sep-2015 02:06:44 America/Chicago] PHP Warning:  file_get_contents(http://www.code-brew.com/projects/networth/public/api/cron-feedback-2): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/codebrew/public_html/projects/networth/public/cron-feedback.php on line 5
+[16-Sep-2015 02:07:10 America/Chicago] PHP Warning:  file_get_contents(http://www.code-brew.com/projects/networth/public/api/cron-feedback-2): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/codebrew/public_html/projects/networth/public/cron-feedback.php on line 5
+[16-Sep-2015 02:10:48 America/Chicago] PHP Warning:  file_get_contents(http://www.code-brew.com/projects/networth/public/api/cron-feedback-2): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/codebrew/public_html/projects/networth/public/cron-feedback.php on line 5
+[16-Sep-2015 12:30:53 UTC] PHP Fatal error:  Class 'App\PushNotification' not found in /home3/codebrew/public_html/projects/networth/app/Users.php on line 902
+[17-Sep-2015 09:14:54 UTC] PHP Fatal error:  Class 'App\PushNotification' not found in /home3/codebrew/public_html/projects/networth/app/Deals.php on line 120
+[17-Sep-2015 10:24:39 UTC] PHP Fatal error:  Call to undefined function App\string() in /home3/codebrew/public_html/projects/networth/app/Users.php on line 595
+[17-Sep-2015 12:27:32 UTC] PHP Parse error:  syntax error, unexpected '$query_limit' (T_VARIABLE) in /home3/codebrew/public_html/projects/networth/app/AdminUsers.php on line 36
+[18-Sep-2015 04:40:39 UTC] PHP Fatal error:  Class 'App\AdminUsers' not found in /home3/codebrew/public_html/projects/networth/app/Http/Controllers/AdminController.php on line 66
+[18-Sep-2015 05:09:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/networth/app/Http/Controllers/AdminController.php on line 81
+[18-Sep-2015 10:32:03 UTC] PHP Parse error:  syntax error, unexpected '"/"' (T_CONSTANT_ENCAPSED_STRING) in /home3/codebrew/public_html/projects/networth/storage/framework/views/aca62395e2e58f2792b9d297153a06f7 on line 175
+[18-Sep-2015 10:34:37 UTC] PHP Parse error:  syntax error, unexpected '"/"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home3/codebrew/public_html/projects/networth/storage/framework/views/aca62395e2e58f2792b9d297153a06f7 on line 175
+[18-Sep-2015 10:35:25 UTC] PHP Parse error:  syntax error, unexpected '"/"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home3/codebrew/public_html/projects/networth/storage/framework/views/aca62395e2e58f2792b9d297153a06f7 on line 175
+[18-Sep-2015 10:40:47 UTC] PHP Parse error:  syntax error, unexpected ''/'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home3/codebrew/public_html/projects/networth/storage/framework/views/aca62395e2e58f2792b9d297153a06f7 on line 182
+[18-Sep-2015 10:45:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/networth/storage/framework/views/aca62395e2e58f2792b9d297153a06f7 on line 201
+[18-Sep-2015 12:59:48 UTC] PHP Fatal error:  Call to undefined function App\getFormattedImage() in /home3/codebrew/public_html/projects/networth/app/Chat.php on line 648
+[19-Sep-2015 07:16:21 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AdminController::userNetworkDetails() in /home3/codebrew/public_html/projects/networth/app/Http/Controllers/AdminController.php on line 40
+[19-Sep-2015 07:16:58 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AdminController::userNetworkDetails() in /home3/codebrew/public_html/projects/networth/app/Http/Controllers/AdminController.php on line 40
+[19-Sep-2015 11:58:55 UTC] PHP Fatal error:  Class 'App\Http\Controllers\AdminIndustry' not found in /home3/codebrew/public_html/projects/networth/app/Http/Controllers/AdminController.php on line 104
+[24-Sep-2015 13:03:38 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Notifications' not found in /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php on line 270
+[24-Sep-2015 13:05:26 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Notifications' not found in /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php on line 270
+[24-Sep-2015 13:06:01 UTC] PHP Fatal error:  Access to undeclared static property: App\Deals::$getNotificationsRules in /home3/codebrew/public_html/projects/networth/app/Notifications.php on line 211
+[28-Sep-2015 13:36:52 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Invitations' not found in /home3/codebrew/public_html/projects/networth/app/Http/Controllers/ApiController.php on line 285
+[29-Sep-2015 06:29:15 UTC] PHP Fatal error:  Class 'App\Users' not found in /home3/codebrew/public_html/projects/networth/app/Notifications.php on line 218
+[29-Sep-2015 10:00:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home3/codebrew/public_html/projects/networth/app/Meetings.php on line 103
+[29-Sep-2015 10:26:19 UTC] PHP Parse error:  syntax error, unexpected 'Notification' (T_STRING) in /home3/codebrew/public_html/projects/networth/app/Meetings.php on line 123
+[30-Sep-2015 05:56:26 UTC] PHP Fatal error:  Access to undeclared static property: App\Notifications::$markNotificationRules in /home3/codebrew/public_html/projects/networth/app/Notifications.php on line 280
+[30-Sep-2015 06:01:15 UTC] PHP Fatal error:  Access to undeclared static property: App\Notifications::$markNotificationRules in /home3/codebrew/public_html/projects/networth/app/Notifications.php on line 280
+[30-Sep-2015 06:19:10 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home3/codebrew/public_html/projects/networth/app/Notifications.php on line 300
+[30-Sep-2015 06:19:28 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home3/codebrew/public_html/projects/networth/app/Notifications.php on line 300
+[30-Sep-2015 06:19:41 UTC] PHP Parse error:  syntax error, unexpected 'DB' (T_STRING) in /home3/codebrew/public_html/projects/networth/app/Notifications.php on line 302

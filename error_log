@@ -1,0 +1,9 @@
+[16-Sep-2015 05:57:03 UTC] PHP Fatal error:  Class 'App\Providers\DB' not found in /home3/codebrew/public_html/projects/networth/app/Providers/AppServiceProvider.php on line 22
+[14-Apr-2016 08:01:14 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home/gleamedm/public_html/gleam_api/app/Http/Middleware/VerifyCsrf.php on line 146
+[14-Apr-2016 08:01:26 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home/gleamedm/public_html/gleam_api/app/Http/Middleware/VerifyCsrf.php on line 146
+[14-Apr-2016 08:01:30 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home/gleamedm/public_html/gleam_api/app/Http/Middleware/VerifyCsrf.php on line 146
+[14-Apr-2016 08:01:42 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home/gleamedm/public_html/gleam_api/app/Http/Middleware/VerifyCsrf.php on line 146
+[14-Apr-2016 08:01:47 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home/gleamedm/public_html/gleam_api/app/Http/Middleware/VerifyCsrf.php on line 146
+[15-Apr-2016 06:43:48 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home/gleamedm/public_html/gleam_api/app/Http/Middleware/VerifyCsrf.php on line 146
+[15-Apr-2016 06:43:55 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home/gleamedm/public_html/gleam_api/app/Http/Middleware/VerifyCsrf.php on line 146
+[15-Apr-2016 09:06:46 UTC] PHP Fatal error:  Class 'TokenMismatchException' not found in /home/gleamedm/public_html/gleam_api/app/Http/Middleware/VerifyCsrf.php on line 146

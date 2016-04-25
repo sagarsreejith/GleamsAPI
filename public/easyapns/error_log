@@ -1,0 +1,404 @@
+[31-Aug-2015 04:52:53 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:52:53 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:52:53 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:52:53 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:52:53 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:52:53 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:52:53 America/Chicago] PHP Notice:  APNS responded with command(8) status(8) pid(94).
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 594)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[31-Aug-2015 04:52:53 America/Chicago] PHP Fatal error:  APNS responded with error for pid(94). status(8: Invalid token)
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 600)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[31-Aug-2015 04:54:19 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:54:19 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:54:19 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:54:19 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:54:19 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:54:19 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:54:19 America/Chicago] PHP Notice:  APNS responded with command(8) status(8) pid(95).
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 594)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[31-Aug-2015 04:54:19 America/Chicago] PHP Fatal error:  APNS responded with error for pid(95). status(8: Invalid token)
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 600)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[31-Aug-2015 04:54:43 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:54:43 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:54:43 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:54:43 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:54:43 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:54:43 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:55:25 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:55:25 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:55:25 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:55:25 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:55:25 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:55:25 America/Chicago] PHP Warning:  pack(): Type H: illegal hex digit % in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 546
+[31-Aug-2015 04:55:25 America/Chicago] PHP Notice:  APNS responded with command(8) status(8) pid(98).
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 594)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[31-Aug-2015 04:55:25 America/Chicago] PHP Fatal error:  APNS responded with error for pid(98). status(8: Invalid token)
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 600)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[31-Aug-2015 04:59:43 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[31-Aug-2015 05:02:12 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[31-Aug-2015 05:06:53 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[31-Aug-2015 05:10:32 America/Chicago] PHP Fatal error:  Application Version must not be blank.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 312)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[31-Aug-2015 05:34:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_DbConnect.php on line 123
+[31-Aug-2015 05:34:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_DbConnect.php on line 123
+[31-Aug-2015 05:34:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_DbConnect.php on line 123
+[02-Sep-2015 23:52:55 America/Chicago] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_DbConnect.php on line 176
+[04-Sep-2015 12:32:22 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[05-Sep-2015 06:45:55 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[07-Sep-2015 05:19:18 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[07-Sep-2015 05:45:41 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[09-Sep-2015 06:54:08 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[09-Sep-2015 08:03:28 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[09-Sep-2015 08:14:23 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[09-Sep-2015 08:16:44 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[10-Sep-2015 04:10:59 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[10-Sep-2015 04:44:13 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[10-Sep-2015 08:28:27 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[10-Sep-2015 14:22:39 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[13-Sep-2015 10:58:12 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[14-Sep-2015 00:56:37 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[14-Sep-2015 04:20:22 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[15-Sep-2015 04:25:26 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[15-Sep-2015 05:43:58 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[16-Sep-2015 01:20:36 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[16-Sep-2015 06:54:03 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[16-Sep-2015 06:57:22 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[17-Sep-2015 12:29:28 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[17-Sep-2015 13:18:55 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[17-Sep-2015 14:47:38 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[18-Sep-2015 00:57:55 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[19-Sep-2015 01:08:35 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[19-Sep-2015 01:17:05 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[19-Sep-2015 02:44:53 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[19-Sep-2015 03:57:44 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[21-Sep-2015 00:02:41 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[21-Sep-2015 06:42:54 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[22-Sep-2015 02:13:56 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[23-Sep-2015 01:13:48 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[23-Sep-2015 02:40:40 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[24-Sep-2015 04:17:47 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[24-Sep-2015 05:06:31 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[28-Sep-2015 00:40:45 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[28-Sep-2015 02:58:38 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[28-Sep-2015 06:13:29 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[29-Sep-2015 07:38:08 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[30-Sep-2015 08:10:21 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[30-Sep-2015 08:10:49 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703
+[01-Oct-2015 00:00:42 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/networth/public/easyapns/classes/class_APNS.php on line 703

@@ -1,0 +1,57 @@
+.clearfix::after
+{
+    content:":)";
+    clear:both;
+    display:block;
+    visibility:hidden;
+    height:0;
+}
+
+.list-group-item {
+    overflow: auto;  
+}
+
+.login-box {
+    background: #ffffff;
+    padding-top: 20px;
+}
+
+.my-alert {
+    margin: 10px;
+}
+
+.my-nav-dropdown {
+    padding: 2px 15px !important;
+}
+
+.no-bottom-margin {
+	margin-bottom: 0;
+}
+
+.my-checkbox {
+	margin: 10px 10px !important;
+}  
+
+.modify-anchor {
+	color: white;
+}
+
+.modify-anchor:hover {
+	color: #FFFAFA;
+}
+
+.my-label {
+	font-size: 12px;
+}
+
+.my-dash-box {
+    height: 125px;
+}
+
+.my-dash-box-2 {
+    height: 118px;
+}
+
+.my-box-tools {
+    margin-right: 100px;
+}
